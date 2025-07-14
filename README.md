@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dattatray Bhaganagare
+# 👋 Hello, I'm sahil Taksal
 
 ## 🚀 About Me
 
@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** driven by curiosity and a love for techn
 
 - 🌱 Learning **Java Development**, **Spring Boot**, and **Backend**
 - 🎯 Focusing on **backend architecture**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dattatray-bhaganagare-994989257/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahil-taksal-585826281/)
 
 ---
 
@@ -36,24 +36,24 @@ I'm a passionate **Software Developer** driven by curiosity and a love for techn
 ## 🔥 GitHub Streak & Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Datta8668&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiltaksal&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Datta8668&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta8668&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sahiltaksal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiltaksal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Datta8668&theme=gruvbox&row=1&column=6"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sahiltaksal&theme=gruvbox&row=1&column=6"/>
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Datta8668&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahiltaksal&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -64,8 +64,8 @@ I'm a passionate **Software Developer** driven by curiosity and a love for techn
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattatray-bhaganagare-994989257/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattatraybhaganagare3571@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-taksal-585826281/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahiltaksal07@gmail.com)
 
 </div>
 
@@ -76,13 +76,13 @@ I'm a passionate **Software Developer** driven by curiosity and a love for techn
   <table>
     <tr>
       <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=Datta8668&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+        <img src="https://komarev.com/ghpvc/?username=sahiltaksal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/followers/Datta8668?style=for-the-badge&color=blue" alt="Followers"/>
+        <img src="https://img.shields.io/github/followers/sahiltaksal?style=for-the-badge&color=blue" alt="Followers"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/stars/Datta8668?style=for-the-badge&color=yellow" alt="Stars"/>
+        <img src="https://img.shields.io/github/stars/sahiltaksal?style=for-the-badge&color=yellow" alt="Stars"/>
       </td>
     </tr>
   </table>
